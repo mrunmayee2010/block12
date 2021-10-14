@@ -1,0 +1,12 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+}
+#photo1{
+    height: 400px;
+        width:400px;
+}
+#photo2{
+    height: 400px;
+    width: 400px;
+}
